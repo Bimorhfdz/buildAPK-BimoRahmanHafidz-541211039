@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "xii-rpl-1-541211039-bimo-porto-",
+    "slug": "snack-14ecc862-f2cd-48ad-b863-678a2b659aff",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.bimorhfdz.snack14ecc862f2cd48adb863678a2b659aff"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "667cd05c-e56f-4c80-a3d4-6bbddb34532d"
+      }
     }
   }
 }
